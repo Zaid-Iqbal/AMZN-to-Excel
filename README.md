@@ -4,12 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AMZN to Excel</title>
+  <title> AMZN to Excel</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="amazon-to-excel-sheet"># Amazon to Excel Sheet</h1>
+  <div class="stackedit__html"><h1 id="amazon-to-excel-sheet">Amazon to Excel Sheet</h1>
 <p>Finds electronics deals on Amazon and organizes the data on an excel spreadsheet</p>
 <h2 id="goal">Goal</h2>
 <p>Add new products to the Hardware Hub website(<a href="http://zed.exioite.com/">zed.exioite.com</a>)</p>
@@ -53,7 +53,7 @@
 <h2 id="notes">Notes</h2>
 <ol>
 <li>
-<p>I decided to push everything to an excel sheet rather than my SQL database is because I couldnt find a way to view each product in the database alongside with a picture of that item so it because difficult to do a manual quality check if need be. Excel sheets make it easier to quickly remove products that I don't want.</p>
+<p>I decided to push everything to an excel sheet rather than my SQL database is because I couldnt find a way to view each product in the database alongside with a picture of that item.  Manual quality checks became more difficult. Excel sheets make it easier to quickly remove products that I don't want.</p>
 </li>
 </ol>
 
@@ -62,6 +62,6 @@
 
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MDA0ODYsMTI1MzQwNzYyMywxNzg0Mz
-cwNjU0XX0=
+eyJoaXN0b3J5IjpbMTYyMzMyODAyNCw3MzUwMDQ4NiwxMjUzND
+A3NjIzLDE3ODQzNzA2NTRdfQ==
 -->
